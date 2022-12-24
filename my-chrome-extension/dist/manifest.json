@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Bookmark Override",
   "version": "1.0.0",
-  "description": "DEVELOPMENT build with simple auto-reloader\n[2022-12-24 13:03:07] waiting for changes...",
+  "description": "DEVELOPMENT build with simple auto-reloader\n[2022-12-24 13:12:17] waiting for changes...",
   "permissions": [
     "bookmarks",
     "tabs"
